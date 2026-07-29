@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "title": "Velox Network Surpasses 1 Million Active Mobile Nodes Worldwide",
+    "category": "MILESTONE",
+    "author": "Velox Core Team",
+    "date": "2026-07-28",
+    "summary": "The Velox ecosystem has officially passed 1 million active miners globally, marking a monumental step toward decentralized mobile consensus.",
+    "content": "In a historic milestone for the project, Velox Network has officially surpassed 1,000,000 active mobile node validators across 140 countries.\n\nOur lightweight cloud-mining protocol continues to prove that blockchain participation does not require expensive ASIC rigs. Every active smartphone running the Velox miner strengthens our decentralized mesh architecture. Thank you to our global community for making Velox one of the fastest-growing Web3 ecosystems!"
+  },
+  {
+    "id": 2,
+    "title": "Tier-1 Exchange Listing Rumors: Is $VELO Heading to Major Exchanges?",
+    "category": "GOSSIP",
+    "author": "Crypto Insider",
+    "date": "2026-07-27",
+    "summary": "Rumors are swirling across Telegram and Twitter that Velox Network is in late-stage talks with top-tier crypto exchanges.",
+    "content": "Speculation reached an all-time high this week after on-chain analysts noticed large test transfers from official Velox treasury wallets.\n\nIndustry insiders suggest that negotiations with major centralized exchanges (CEXs) are underway for the upcoming $VELO Token Generation Event (TGE). While the core team remains tight-lipped, community sentiment is overwhelmingly bullish as liquidity pools continue to deepen."
+  },
+  {
+    "id": 3,
+    "title": "Velox Protocol V2 Upgrade: Faster Synchronization & Lower Latency",
+    "category": "TECH UPDATE",
+    "author": "Velox Dev Team",
+    "date": "2026-07-26",
+    "summary": "Our latest background protocol patch optimizes network handshakes and reduces battery overhead by 35%.",
+    "content": "Engineers at Velox Network have successfully deployed Protocol V2 across all active mobile nodes.\n\nKey highlights include:\n• 35% reduction in background device resource consumption.\n• Instantaneous real-time sync with Firebase & decentralised block ledgers.\n• Enhanced anti-cheat protocol protecting genuine miners from bot farms.\n\nKeep your app updated to ensure maximum mining efficiency and uninterrupted session rewards."
+  },
+  {
+    "id": 4,
+    "title": "Master VELO vs Session Mined: Understanding the Core Tokenomics",
+    "category": "ACADEMY",
+    "author": "Velox Economist",
+    "date": "2026-07-25",
+    "summary": "Learn how your hourly mined session coins transfer into Master VELO for ultimate exchange liquidity.",
+    "content": "Understanding the Velox dual-tier ledger is essential for all network participants:\n\n1. Session Mined Coins: These represent real-time proof-of-engagement generated during your active 1-hour cloud mining session.\n2. Master VELO Balance: Once a mining session completes or hourly check-ins are claimed, your coins accumulate into Master VELO.\n\nMaster VELO is your core spendable asset, eligible for conversion into main Balance at a 100:1 ratio for local gateway withdrawals!"
+  },
+  {
+    "id": 5,
+    "title": "Community Hype: #VeloxToTheMoon Trends Globally on Twitter",
+    "category": "COMMUNITY",
+    "author": "Web3 Pulse",
+    "date": "2026-07-24",
+    "summary": "Crypto Twitter is buzzing with Velox memes, mining screenshots, and price predictions.",
+    "content": "The Velox community showed its strength this week as #VeloxToTheMoon and #MineVELO trended in multiple countries.\n\nUsers have been sharing their Master VELO milestones, referral wins, and withdrawal proofs across X (formerly Twitter) and Reddit. Influencers with over 500k followers have started covering the Velox mobile mining revolution, praising its frictionless onboarding."
+  },
+  {
+    "id": 6,
+    "title": "Institutional Interest Grows: Are VCs Accumulating Master VELO?",
+    "category": "GOSSIP",
+    "author": "Blockchain Daily",
+    "date": "2026-07-23",
+    "summary": "Unconfirmed reports suggest venture capital firms are eyeing strategic OTC allocations of VELO.",
+    "content": "Multiple crypto venture desks have reportedly reached out to the Velox Foundation to discuss OTC (Over-The-Counter) token allocations.\n\nAs mobile-first crypto adoption accelerates in emerging markets, institutional investors view Velox's lightweight consensus mechanism as a game-changer for retail Web3 onboarding. Expect official announcements in the upcoming Q3 roadmap reveal."
+  },
+  {
+    "id": 7,
+    "title": "Hourly Check-in Rewards: Why Daily Consistency Pays Off",
+    "category": "TIPS & TRICKS",
+    "author": "Community Mod",
+    "date": "2026-07-22",
+    "summary": "Maxing out your daily check-in claims can boost your Master VELO balance significantly over time.",
+    "content": "Did you know? Regular miners who claim the Hourly Check-in bonus consistently earn up to 240 extra Master VELO coins every day!\n\nCombining active 1-hour mining sessions with hourly check-ins creates a compounding effect, accelerating your journey toward minimum exchange thresholds. Don't forget to enable app notifications so you never miss a claim."
+  },
+  {
+    "id": 8,
+    "title": "Security Taskforce Deploys Single-Device Session Lock Protocol",
+    "category": "SECURITY",
+    "author": "Velox Security Lead",
+    "date": "2026-07-21",
+    "summary": "To protect token value, Velox now strictly enforces 1-account-per-device authentication.",
+    "content": "To maintain fair token distribution and eliminate multi-device farming bots, Velox Network has activated real-time UUID Session Locking.\n\nIf an account attempts to log in on a second device, the previous device is immediately signed out with active sessions safeguarded. This ensures legitimate miners enjoy maximum network rewards and protected asset value."
+  },
+  {
+    "id": 9,
+    "title": "Whale Watch: Top Miner Holds Over 250,000 Master VELO",
+    "category": "GOSSIP",
+    "author": "On-Chain Tracker",
+    "date": "2026-07-20",
+    "summary": "The leaderboards show an anonymous miner leading network earnings through referrals and non-stop node activity.",
+    "content": "On-chain analytics reveal that the top individual miner on Velox Network has accumulated over 250,000 Master VELO!\n\nAccording to community speculation, this user built a network of over 1,200 active referral partners through viral TikTok and YouTube tutorials. Referral bonuses (+500 Master VELO per valid invite) continue to be the fastest way to scale your holdings."
+  },
+  {
+    "id": 10,
+    "title": "Velox Ecosystem Roadmap Q3/Q4 Preview: What to Expect Next",
+    "category": "ROADMAP",
+    "author": "Velox Core Team",
+    "date": "2026-07-19",
+    "summary": "From P2P transfers to DEX liquidity pools, here is what the dev team is cooking up.",
+    "content": "We are excited to share a sneak peek of our upcoming development milestones for the second half of 2026:\n\n• Peer-to-Peer (P2P) VELO Transfers between user wallets.\n• Staking Vaults allowing Master VELO holders to lock funds for yield APY.\n• Automated Liquidity Pool integration on decentralized exchanges.\n• Multi-currency local cashout expansion for global users.\n\nStay tuned as we continue building the ultimate mobile crypto ecosystem!"
+  },
+  {
+    "id": 11,
+    "title": "Zero Battery Drain: How Velox Outperforms Traditional Crypto Mining",
+    "category": "TECH UPDATE",
+    "author": "Velox Hardware Lab",
+    "date": "2026-07-18",
+    "summary": "Discover how cloud-assisted proof-of-time keeps your device cool and battery healthy.",
+    "content": "Unlike traditional Proof-of-Work (PoW) mining that overheats smartphones and destroys battery health, Velox uses a hybrid Proof-of-Engagement (PoE) model.\n\nYour phone acts as an authentication node while heavy mathematical computations are offloaded to decentralized cloud clusters. This guarantees zero hardware degradation and near-zero battery consumption!"
+  },
+  {
+    "id": 12,
+    "title": "Local Cashouts Upgrade: JazzCash, EasyPaisa & Bank Accounts Live",
+    "category": "ECOSYSTEM",
+    "author": "Velox Finance",
+    "date": "2026-07-17",
+    "summary": "Converting your mined Balance to real-world fiat has never been faster or easier.",
+    "content": "We have officially integrated direct local payment gateways into the Velox app!\n\nMiners can now connect their JazzCash, EasyPaisa, or Bank Accounts to request instant balance withdrawals. Our automated payment engine processes requests securely with real-time tracking directly inside your Wallet Details menu."
+  },
+  {
+    "id": 13,
+    "title": "Velox Telegram Community Crosses 200,000 Members",
+    "category": "COMMUNITY",
+    "author": "Community Team",
+    "date": "2026-07-16",
+    "summary": "Join the official Telegram group for daily giveaways, mining contests, and real-time support.",
+    "content": "Our official Telegram community has grown to over 200,000 passionate Velox miners!\n\nJoin the discussion today to meet fellow miners, trade referral codes, stay updated on listing rumors, and get direct assistance from community moderators. Click the Contact Support icon in-app to join."
+  },
+  {
+    "id": 14,
+    "title": "Crypto Podcast Highlights Velox as 'The People's Crypto Project'",
+    "category": "MEDIA",
+    "author": "Web3 Unfiltered",
+    "date": "2026-07-15",
+    "summary": "Popular Web3 podcast hosts discuss how Velox is democratizing token ownership for everyone.",
+    "content": "On the latest episode of Web3 Unfiltered, hosts praised Velox Network for removing barriers to entry in cryptocurrency.\n\n'Most crypto projects require thousands of dollars in capital or technical know-how,' the host noted. 'Velox lets anyone with a smartphone mine real crypto for free. It’s grassroots decentralization at its finest.'"
+  },
+  {
+    "id": 15,
+    "title": "Why $VELO Supply Cap Guarantees Long-Term Scarcity",
+    "category": "ACADEMY",
+    "author": "Velox Economist",
+    "date": "2026-07-14",
+    "summary": "A deep dive into token deflation, block halvings, and supply limits.",
+    "content": "To prevent hyper-inflation, $VELO features a strictly capped total supply. As network node density grows, mining difficulty dynamically adjusts to maintain scarcity.\n\nEarly miners benefit from maximum mining yields before future halvings reduce block emissions. Accumulating Master VELO now position users ahead of supply contractions."
+  },
+  {
+    "id": 16,
+    "title": "P2P Marketplace Feature Enters Closed Beta Testing",
+    "category": "TECH UPDATE",
+    "author": "Velox Dev Team",
+    "date": "2026-07-13",
+    "summary": "Selected community testers are currently previewing direct user-to-user VELO transfers.",
+    "content": "Beta testing for the Velox P2P Transfer protocol has officially begun with a select group of 500 community ambassadors.\n\nThe feature allows instant, feeless transfers of VELO coins between app users worldwide using simple QR codes or User IDs. Full public rollout is scheduled for later this quarter."
+  },
+  {
+    "id": 17,
+    "title": "Is a Velox Airdrop Campaign Coming for Top Recruiters?",
+    "category": "GOSSIP",
+    "author": "Airdrop Hunters",
+    "date": "2026-07-12",
+    "summary": "Leaked graphics suggest a major bonus pool for users with high referral counts.",
+    "content": "Unverified screenshots circulating on Discord show an upcoming 'Velox Ambassador Airdrop' leaderboards page.\n\nAccording to leaks, the top 1,000 referral recruiters will share a special bonus pool during the mainnet launch. Keep inviting friends to secure your ranking!"
+  },
+  {
+    "id": 18,
+    "title": "Velox Network Achieves 99.99% Uptime Across Global Nodes",
+    "category": "TECH UPDATE",
+    "author": "Velox Infrastructure",
+    "date": "2026-07-11",
+    "summary": "Robust server architecture ensures seamless 24/7 cloud mining without interruption.",
+    "content": "Our infrastructure team reports a 99.99% server uptime over the past 90 days despite record-breaking user traffic.\n\nThanks to distributed edge computing nodes across North America, Europe, and Asia, miners enjoy instant session initiation and zero lag during coin sync."
+  },
+  {
+    "id": 19,
+    "title": "User Spotlight: How Sarah Built a 50-Person Mining Team in 1 Week",
+    "category": "COMMUNITY",
+    "author": "Velox Stories",
+    "date": "2026-07-10",
+    "summary": "College student shares her strategy for earning thousands of bonus VELO coins.",
+    "content": "'I just posted a short video explaining how easy it is to mine VELO on your phone,' says Sarah, a 21-year-old student.\n\nHer video went viral on Instagram Reels, netting her over 50 referral signups in 7 days and generating 25,000+ Master VELO in referral commissions!"
+  },
+  {
+    "id": 20,
+    "title": "Market Analysis: Why Mobile Mining Tokens Are Outperforming Altcoins",
+    "category": "MARKET WATCH",
+    "author": "Crypto Research Desk",
+    "date": "2026-07-09",
+    "summary": "Data shows mobile-first crypto projects gaining massive adoption momentum.",
+    "content": "Market research shows a seismic shift toward mobile mining projects in 2026. As retail users seek accessible Web3 opportunities without financial risk, projects like Velox Network are capturing organic user growth far exceeding venture-backed tokens."
+  },
+  {
+    "id": 21,
+    "title": "Velox Anti-Fraud Engine Upgraded: Blocking Bot Farms in Real-Time",
+    "category": "SECURITY",
+    "author": "Velox Security Lead",
+    "date": "2026-07-08",
+    "summary": "Advanced AI algorithms now detect and permanently ban emulator scripts and fake referrals.",
+    "content": "In our commitment to protecting genuine community members, Velox has deployed an upgraded AI anti-cheat filter.\n\nThe system automatically purges fake accounts, scripted emulator farms, and duplicate signups, guaranteeing that real human miners receive 100% of fair token emissions."
+  },
+  {
+    "id": 22,
+    "title": "How to Maximize Your Mined Coins Every Single Day",
+    "category": "TIPS & TRICKS",
+    "author": "Velox Guide",
+    "date": "2026-07-07",
+    "summary": "3 simple steps to ensure your mining node never stops earning.",
+    "content": "1. Restart Mining Immediately: Tap 'Go Mining' as soon as your 1-hour session ends.\n2. Set Hourly Reminders: Claim the +10 Master VELO check-in bonus every hour.\n3. Share Your Code: Get +500 Master VELO for every friend who joins using your invite code!"
+  },
+  {
+    "id": 23,
+    "title": "Velox Network Hackathon Announced for Web3 Developers",
+    "category": "ECOSYSTEM",
+    "author": "Velox Dev Community",
+    "date": "2026-07-06",
+    "summary": "A $100,000 prize pool is up for grabs for devs building dApps on Velox blockchain.",
+    "content": "The Velox Foundation has officially announced the 'Velox Builder Hackathon 2026'.\n\nDevelopers worldwide are invited to build decentralized applications (dApps), mini-games, and DeFi tools leveraging the $VELO token ecosystem. Winning projects will receive grant funding and direct integration into the app!"
+  },
+  {
+    "id": 24,
+    "title": "Speculation Grows Around Upcoming DEX Liquidity Pools",
+    "category": "GOSSIP",
+    "author": "DeFi Insider",
+    "date": "2026-07-05",
+    "summary": "Traders anticipate VELO/USDT and VELO/BNB pairs on major decentralized exchanges.",
+    "content": "Liquidity providers are preparing for the public trading launch of $VELO on DEX platforms.\n\nEarly wallet snapshots indicate that liquidity bootstrap pools are being finalized to ensure smooth price discovery and low slippage upon market debut."
+  },
+  {
+    "id": 25,
+    "title": "Velox App Hits #1 Trending in Finance Category Across Multiple Regions",
+    "category": "MILESTONE",
+    "author": "Velox Media",
+    "date": "2026-07-04",
+    "summary": "Rapid user adoption pushes Velox to the top of mobile app store charts.",
+    "content": "Thanks to your incredible support, Velox Network reached the #1 trending spot in the Finance category across several key international markets this week!\n\nOur commitment to a smooth, ad-supported, rewarding experience continues to attract thousands of new miners daily."
+  },
+  {
+    "id": 26,
+    "title": "Understanding 100:1 Exchange Rate: From Mined Coins to Balance",
+    "category": "ACADEMY",
+    "author": "Velox Economist",
+    "date": "2026-07-03",
+    "summary": "Why the conversion rate ensures stable financial liquidity for all users.",
+    "content": "Many users ask how the 100 Master VELO = 1 Balance conversion rate works.\n\nThis conversion model stabilizes local cashout pools, ensuring that every withdrawal requested via JazzCash, EasyPaisa, or Bank Transfer remains backed by verified network reserves."
+  },
+  {
+    "id": 27,
+    "title": "Velox Network Expands Server Nodes Across South America & Africa",
+    "category": "TECH UPDATE",
+    "author": "Velox Infrastructure",
+    "date": "2026-07-02",
+    "summary": "New cloud data centers installed to support surging regional user bases.",
+    "content": "To accommodate exploding user growth in South America and Africa, Velox has deployed new edge server clusters in São Paulo and Johannesburg.\n\nMiners in these regions will experience faster ping times, seamless check-in claims, and faster app loading."
+  },
+  {
+    "id": 28,
+    "title": "Crypto Influencer 'CryptoKing' Joins Velox as Brand Ambassador",
+    "category": "COMMUNITY",
+    "author": "Velox PR",
+    "date": "2026-07-01",
+    "summary": "Popular Web3 creator with 1M+ followers officially partners with Velox Network.",
+    "content": "We are thrilled to welcome 'CryptoKing' to the Velox family as our official global ambassador!\n\nExpect exclusive AMAs, educational livestreams, and community giveaways in the coming weeks as we work together to spread mobile mining worldwide."
+  },
+  {
+    "id": 29,
+    "title": "Network Maintenance Completed: Real-time Firebase Sync Enhanced",
+    "category": "TECH UPDATE",
+    "author": "Velox Dev Team",
+    "date": "2026-06-30",
+    "summary": "Scheduled maintenance concluded with zero data loss and improved database throughput.",
+    "content": "Our scheduled database maintenance wrapped up successfully early this morning.\n\nReal-time synchronization between local devices and Firebase cloud servers is now 50% faster, ensuring your session coins and Master VELO update instantly."
+  },
+  {
+    "id": 30,
+    "title": "Why EasyPaisa and JazzCash Miners Are Loving Velox",
+    "category": "ECOSYSTEM",
+    "author": "FinTech Today",
+    "date": "2026-06-29",
+    "summary": "Direct local mobile wallet cashouts make Velox a favorite in South Asia.",
+    "content": "FinTech analysts highlight Velox's integration of local Pakistani payment gateways (JazzCash & EasyPaisa) as a genius localization strategy.\n\nBy removing complex crypto exchange barriers, everyday users can mine on their phones and withdraw directly into their local bank or mobile wallets."
+  },
+  {
+    "id": 31,
+    "title": "Velox NFT Supporter Pass Leak: Exclusive Perks for Early Miners",
+    "category": "GOSSIP",
+    "author": "NFT World",
+    "date": "2026-06-28",
+    "summary": "Rumors suggest early miners will receive free commemorative NFT badges.",
+    "content": "Unannounced metadata found on GitHub suggests that miners who joined before the 2 Million user mark will be eligible to claim an exclusive 'Genesis Miner NFT'.\n\nThese NFTs are rumored to grant a permanent +10% boost to future staking rewards!"
+  },
+  {
+    "id": 32,
+    "title": "How the Offline Mining Pause Feature Protects Your Mining Duration",
+    "category": "TECH UPDATE",
+    "author": "Velox Dev Team",
+    "date": "2026-06-27",
+    "summary": "Lost internet? Velox automatically pauses your session timer so you don't lose time.",
+    "content": "Did you know? If your internet connection drops during an active mining session, Velox automatically pauses the countdown timer.\n\nOnce your connection is restored, the timer resumes exactly where it left off, ensuring you always get your full 1-hour active mining yield!"
+  },
+  {
+    "id": 33,
+    "title": "Velox Community Treasury Fund Hits $500,000 Reserve",
+    "category": "ECOSYSTEM",
+    "author": "Velox Treasury",
+    "date": "2026-06-26",
+    "summary": "Ad revenue reinvestment guarantees stable ecosystem growth and cashouts.",
+    "content": "The Velox Network Ecosystem Reserve has officially crossed $500,000 in backing funds.\n\nThrough responsible ad monetization and strategic partner sponsorships, the community treasury ensures long-term withdrawal liquidity for all active network miners."
+  },
+  {
+    "id": 34,
+    "title": "5 Mistakes to Avoid When Mining VELO",
+    "category": "TIPS & TRICKS",
+    "author": "Velox Community",
+    "date": "2026-06-25",
+    "summary": "Avoid these common pitfalls to keep your account safe and earnings high.",
+    "content": "1. Do not use VPNs while mining – it may trigger anti-fraud filters.\n2. Never share your password or login credentials with anyone.\n3. Avoid logging in on multiple devices simultaneously.\n4. Make sure your account title matches your withdrawal wallet name.\n5. Don't forget to claim your hourly check-in bonuses!"
+  },
+  {
+    "id": 35,
+    "title": "Velox Cross-Chain Bridge to Ethereum & Solana Explored",
+    "category": "ROADMAP",
+    "author": "Velox Research",
+    "date": "2026-06-24",
+    "summary": "Engineers research cross-chain interoperability for seamless token bridging.",
+    "content": "The Velox research team has published a whitepaper on cross-chain token wrapping.\n\nIn future updates, Master VELO holders will be able to bridge their tokens directly to ERC-20 (Ethereum) and SPL (Solana) formats for use in global DeFi protocols."
+  },
+  {
+    "id": 36,
+    "title": "Top Referral Earner Shares Secrets to Building a Network",
+    "category": "COMMUNITY",
+    "author": "Velox Spotlight",
+    "date": "2026-06-23",
+    "summary": "'Focus on helping your recruits succeed,' says top recruiter with 800+ invites.",
+    "content": "Our top recruiter of the month, Alex from Brazil, shared his secret: 'I created a WhatsApp group where I remind all my invited friends to start their mining sessions every hour. When they succeed, we both win!'"
+  },
+  {
+    "id": 37,
+    "title": "Velox Mobile App Memory Footprint Reduced to Under 30MB",
+    "category": "TECH UPDATE",
+    "author": "Velox Mobile Team",
+    "date": "2026-06-22",
+    "summary": "Code optimizations make Velox ultra-fast even on budget smartphones.",
+    "content": "Through extensive code refactoring, the Velox Android app now occupies less than 30MB of storage and under 40MB of RAM.\n\nThis makes Velox one of the lightest, most responsive crypto mining apps on the market today!"
+  },
+  {
+    "id": 38,
+    "title": "Is a $VELO Token Staking Program Arriving Next Month?",
+    "category": "GOSSIP",
+    "author": "Crypto Leaks",
+    "date": "2026-06-21",
+    "summary": "Leaked UI mockups show APY yield tiers for locking Master VELO for 30, 60, or 90 days.",
+    "content": "Teased UI designs suggest that Velox will soon launch 'Vault Staking'.\n\nMiners who choose to lock their Master VELO coins for set periods will earn bonus interest yield plus priority status for future withdrawal processing!"
+  },
+  {
+    "id": 39,
+    "title": "Velox Foundation Grants $50k to Open-Source Security Researchers",
+    "category": "SECURITY",
+    "author": "Velox Foundation",
+    "date": "2026-06-20",
+    "summary": "Bug bounty program rewards white-hat hackers for keeping the network safe.",
+    "content": "Security is our highest priority. The Velox Foundation has distributed $50,000 in bug bounties to independent security researchers who helped test and harden our cloud API endpoints."
+  },
+  {
+    "id": 40,
+    "title": "Why Unity Ads Partnership Keeps Velox Completely Free for Users",
+    "category": "ECOSYSTEM",
+    "author": "Velox Monetization",
+    "date": "2026-06-19",
+    "summary": "Rewarding ad views creates a win-win economy where users earn without depositing money.",
+    "content": "By partnering with Unity Ads, Velox maintains a sustainable, zero-deposit economy.\n\nWatching short voluntary rewarded ads during check-ins directly funds network development and maintains cashout reserves, ensuring miners never have to spend a single penny of their own money."
+  },
+  {
+    "id": 41,
+    "title": "Community AMA Recap: 10 Key Takeaways from the Founders",
+    "category": "COMMUNITY",
+    "author": "Velox Team",
+    "date": "2026-06-18",
+    "summary": "Everything discussed during last night's live audio session on X Spaces.",
+    "content": "Over 15,000 listeners tuned in for our live Ask-Me-Anything session! Key highlights include announcements regarding CEX listing timelines, regional withdrawal expansions, and upcoming app UI enhancements."
+  },
+  {
+    "id": 42,
+    "title": "Velox Background Service Optimized for Android 14 & 15",
+    "category": "TECH UPDATE",
+    "author": "Velox Dev Team",
+    "date": "2026-06-17",
+    "summary": "Full compliance with modern Android foreground service requirements.",
+    "content": "Our engineering team has updated the Velox Mining Foreground Service to comply fully with Google’s latest Android 14 and 15 battery & background execution guidelines.\n\nMiners can rest easy knowing background session tracking will remain rock-solid on all new Android devices."
+  },
+  {
+    "id": 43,
+    "title": "How Velox Prepares Users for the Token Generation Event (TGE)",
+    "category": "ACADEMY",
+    "author": "Velox Economist",
+    "date": "2026-06-16",
+    "summary": "A step-by-step guide to preparing your wallet for the public token launch.",
+    "content": "As we approach our public TGE, make sure your profile details are up to date, your invite code is shared, and your payment wallets (JazzCash/EasyPaisa/Bank) are properly connected."
+  },
+  {
+    "id": 44,
+    "title": "Over 50,000 Successful Cashout Transactions Processed to Date",
+    "category": "MILESTONE",
+    "author": "Velox Finance",
+    "date": "2026-06-15",
+    "summary": "Our automated finance pipeline reaches a major reliability milestone.",
+    "content": "Velox Finance is proud to announce that over 50,000 individual withdrawal requests have been processed successfully!\n\nOur system continues to maintain a 99.2% speed approval rating for verified users."
+  },
+  {
+    "id": 45,
+    "title": "Velox Global Memes Contest Winners Announced!",
+    "category": "COMMUNITY",
+    "author": "Velox Social",
+    "date": "2026-06-14",
+    "summary": "Top 10 meme creators win a share of 50,000 Master VELO coins.",
+    "content": "After reviewing over 3,000 entries, our community judges have selected the winners of the #VeloxMemeContest! Check out our Telegram channel to view the winning creations."
+  },
+  {
+    "id": 46,
+    "title": "Why Web3 Experts Call Velox 'The Onramp for the Next 100M Crypto Users'",
+    "category": "MEDIA",
+    "author": "Crypto Insider",
+    "date": "2026-06-13",
+    "summary": "Industry leaders highlight mobile cloud mining as the key to mass adoption.",
+    "content": "In a recent article published by Web3 Digest, analysts named Velox Network as a top contender for onboarding non-crypto natives thanks to its simple 1-click mining interface."
+  },
+  {
+    "id": 47,
+    "title": "Velox Cloud Nodes Upgrade Cuts Data Usage by 60%",
+    "category": "TECH UPDATE",
+    "author": "Velox Infrastructure",
+    "date": "2026-06-12",
+    "summary": "Mining on mobile data? New compression protocols drastically reduce bandwidth.",
+    "content": "Miners on limited mobile data plans rejoice! Our new JSON protocol compression lowers app data consumption to less than 2MB per day during active mining."
+  },
+  {
+    "id": 48,
+    "title": "Is Velox Planning a Gaming Mini-App Ecosystem?",
+    "category": "GOSSIP",
+    "author": "GameFi News",
+    "date": "2026-06-11",
+    "summary": "Leaked developer docs hint at casual tap-to-earn mini-games inside Velox.",
+    "content": "Developer documentation leaked online suggests Velox is building a 'GameFi Arcade' where users can play casual games to earn extra Master VELO bonuses!"
+  },
+  {
+    "id": 49,
+    "title": "Velox Network Compliance Statement: Built for Transparency",
+    "category": "SECURITY",
+    "author": "Velox Legal",
+    "date": "2026-06-10",
+    "summary": "Our commitment to user data privacy, Google Play policies, and Web3 compliance.",
+    "content": "Velox Network operates under strict data protection protocols. We never harvest personal contacts, sell user data, or run unauthorized background tasks."
+  },
+  {
+    "id": 50,
+    "title": "Welcome to the Future of Decentralized Mobile Mining: The Journey Continues!",
+    "category": "MILESTONE",
+    "author": "Velox Founders",
+    "date": "2026-06-09",
+    "summary": "A message of gratitude from the founders as we look ahead to an exciting future.",
+    "content": "To every single miner running the Velox app today: thank you. Together, we are building the world's most accessible, user-friendly mobile cryptocurrency network. Keep mining, keep sharing, and welcome to the future of Velox!"
+  }
+]
