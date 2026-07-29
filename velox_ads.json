@@ -1,0 +1,26 @@
+[
+  {
+    "vidId": "vid_101",
+    "title": "Crypto Cold Wallets & Security Fundamentals",
+    "rewardAmount": 0.25,
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "vidId": "vid_102",
+    "title": "Decentralized Cloud Computing & Node Validation",
+    "rewardAmount": 0.50,
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "vidId": "vid_103",
+    "title": "Introduction to Web3 Tokenomics & Staking",
+    "rewardAmount": 0.35,
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "vidId": "vid_104",
+    "title": "Velox Network Ecosystem Showcase 2026",
+    "rewardAmount": 0.40,
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  }
+]
