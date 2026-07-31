@@ -1,7 +1,7 @@
 {
   "appUpdate": {
-    "versionCode": 2,
-    "versionName": "0.2",
+    "versionCode": 4,
+    "versionName": "0.4",
     "apkUrl": "https://raw.githubusercontent.com/your-username/velox-data/main/velox-network-v1.1.0.apk",
     "releaseNotes": "• Upgraded Velox Mining Protocol Engine\n• Fixed offline Session Coins sync\n• Added Direct Local Withdrawals & PayPal\n• Velox Ad Network Earn USD Integration",
     "forceUpdate": false
