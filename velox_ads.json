@@ -1,26 +1,12 @@
 [
-  {
-    "vidId": "vid_101",
-    "title": "Crypto Cold Wallets & Security Fundamentals",
-    "rewardAmount": 0.25,
-    "url": "https://pub-b400d22aa3d84c2abab062c32f1844f3.r2.dev/22138-325481695.mp4"
-  },
-  {
-    "vidId": "vid_102",
-    "title": "Decentralized Cloud Computing & Node Validation",
-    "rewardAmount": 0.50,
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-  },
-  {
-    "vidId": "vid_103",
-    "title": "Introduction to Web3 Tokenomics & Staking",
-    "rewardAmount": 0.35,
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-  },
-  {
-    "vidId": "vid_104",
-    "title": "Velox Network Ecosystem Showcase 2026",
-    "rewardAmount": 0.40,
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-  }
+  { "campaignId": "campaign_1", "title": "Velox Campaign #1", "placementId": "Rewarded_Android_1", "rewardAmount": 0.25 },
+  { "campaignId": "campaign_2", "title": "Velox Campaign #2", "placementId": "Rewarded_Android_2", "rewardAmount": 0.30 },
+  { "campaignId": "campaign_3", "title": "Velox Campaign #3", "placementId": "Rewarded_Android_3", "rewardAmount": 0.35 },
+  { "campaignId": "campaign_4", "title": "Velox Campaign #4", "placementId": "Rewarded_Android_4", "rewardAmount": 0.40 },
+  { "campaignId": "campaign_5", "title": "Velox Campaign #5", "placementId": "Rewarded_Android_5", "rewardAmount": 0.45 },
+  { "campaignId": "campaign_6", "title": "Velox Campaign #6", "placementId": "Rewarded_Android_6", "rewardAmount": 0.50 },
+  { "campaignId": "campaign_7", "title": "Velox Campaign #7", "placementId": "Rewarded_Android_7", "rewardAmount": 0.55 },
+  { "campaignId": "campaign_8", "title": "Velox Campaign #8", "placementId": "Rewarded_Android_8", "rewardAmount": 0.60 },
+  { "campaignId": "campaign_9", "title": "Velox Campaign #9", "placementId": "Rewarded_Android_9", "rewardAmount": 0.65 },
+  { "campaignId": "campaign_10", "title": "Velox Campaign #10", "placementId": "Rewarded_Android_10", "rewardAmount": 0.70 }
 ]
