@@ -1,0 +1,120 @@
+VELOX NETWORK - PRIVACY POLICY
+
+Effective Date: May 15, 2024
+Last Updated: August 5, 2026
+Official Website: https://veloxnetwork.vercel.app
+Application: Velox Network (com.velox.network)
+
+====================================================================
+1. INTRODUCTION
+====================================================================
+Welcome to Velox Network ("we," "our," "us," or "Velox Foundation"). We are committed to protecting your privacy and ensuring a secure, transparent environment for all users participating in our cloud-mining, P2P transfer, and ad-monetization ecosystem.
+
+This Privacy Policy explains how we collect, use, store, share, and protect your information when you access or use the Velox Network mobile application ("App") and associated web services.
+
+By creating an account, initiating cloud mining sessions, or using any feature within the App, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+====================================================================
+2. INFORMATION WE COLLECT
+====================================================================
+We collect information directly provided by you, automatically gathered through your device, and generated through your participation in the Velox ecosystem.
+
+A. Personal Authentication Data
+When you sign in using Google Authentication, we collect:
+• Your Display Name
+• Your Email Address
+• Your Google Profile Photo URL
+• Your unique Firebase User Identifier (UID)
+
+B. Financial & Transactional Data
+To manage your rewards, ledger balances, and payouts, we record:
+• Your Master VELOX coin balance and session earnings.
+• Your Master USD ad earnings balance.
+• Generated cryptographic Wallet Addresses (0xVLX...).
+• Peer-to-Peer (P2P) transfer history (sender/recipient addresses, amounts, and timestamps).
+• Withdrawal Request Data: Payment gateway choices (PayPal, JazzCash, EasyPaisa, or Bank Transfer), account title names, account numbers, IBANs, or PayPal email addresses.
+
+C. Device & Technical Telemetry
+To enforce anti-fraud security and single-device session locking, we automatically collect:
+• Unique Device Identifier (Android ID / Hardware UUID).
+• Device Model, Manufacturer, and Operating System version.
+• Network Connectivity Status (IP Address, latency telemetry, and connection reachability).
+• Push Notification Token (Firebase Cloud Messaging / FCM token).
+
+D. In-App Activity & Support Data
+• Daily Check-in claims and advertisement watch logs.
+• Support tickets submitted via our Help Center (message content, category, name, and email).
+
+====================================================================
+3. HOW WE USE YOUR INFORMATION
+====================================================================
+We process your information strictly for legitimate operational purposes, including:
+1. Account Authentication: To verify your identity and maintain your profile.
+2. Cloud Mining Ledger Sync: To calculate, track, and credit real-time 1-hour mining rewards, check-in bonuses, and referral rewards.
+3. Single-Device Security Lock: To prevent multi-device account farming, automated bot scripts, and emulator exploits by locking active mining sessions to a single verified device UUID.
+4. Transaction Processing: To execute P2P coin transfers and process local cashout requests via selected payment gateways.
+5. Advertising & Monetization: To serve voluntary, sponsored video ads through our monetization partners.
+6. System Alerts & Notifications: To send real-time P2P transfer alerts, daily check-in reminders, and app update notices.
+7. Support Resolution: To investigate and respond to support tickets submitted through the App.
+
+====================================================================
+4. THIRD-PARTY SERVICES & ADVERTISING
+====================================================================
+We integrate trusted third-party SDKs and APIs to provide application functionality, analytics, and monetization. These third parties may collect information sent by your device in accordance with their respective privacy policies:
+
+• Google Firebase (Authentication, Realtime Database, Cloud Firestore, Cloud Messaging, App Check):
+  Used for account security, real-time database ledger syncing, support ticket management, and push notifications.
+  Privacy Policy: https://policies.google.com/privacy
+
+• Unity Ads SDK:
+  Used to serve voluntary rewarded and interstitial video advertisements. Unity Ads may collect device identifiers, IP addresses, and ad interaction metrics to deliver relevant campaigns.
+  Privacy Policy: https://unity.com/legal/privacy-policy
+
+• CoinGecko & Open Exchange Rates APIs:
+  Used to fetch live, real-time Tether (USDT) and fiat currency conversion rates. No personal data is transmitted during price API requests.
+
+====================================================================
+5. DATA STORAGE, SECURITY, AND RETENTION
+====================================================================
+A. Security Infrastructure
+We employ industry-standard encryption, including SSL/TLS in-transit data protection, Firebase Realtime Database Security Rules, and Cloud Firestore Security Rules. All database queries are restricted so that users can only access their authorized data paths.
+
+B. Data Retention
+We retain your personal and transactional data for as long as your account remains active in order to provide continuous mining, ledger tracking, and withdrawal services. If an account is inactive or terminated, associated data is retained only as required by applicable financial record-keeping obligations.
+
+====================================================================
+6. SINGLE-DEVICE ANTI-FRAUD POLICY
+====================================================================
+To protect the token economy and ensure fair distribution for all genuine users, Velox Network strictly enforces a 1-Account-Per-Device policy. 
+
+If an account attempts to log in or initiate a mining session on a secondary device simultaneously, the active session on the primary device is automatically terminated. Accounts caught utilizing emulator scripts, automated clickers, or duplicate referral farms are subject to permanent suspension.
+
+====================================================================
+7. YOUR DATA RIGHTS AND DELETION REQUESTS
+====================================================================
+You have the right to:
+• Access the personal data held about your account.
+• Correct or update your profile details.
+• Request the complete deletion of your account, wallet address, and associated database records.
+
+To request account deletion or data removal, please contact our support team via the in-app Support & Help menu or send an email to: support@veloxnetwork.app with your registered email address and user UID.
+
+====================================================================
+8. CHILDREN'S PRIVACY
+====================================================================
+Velox Network does not knowingly collect or solicit personal information from children under the age of 13 (or 16 in certain jurisdictions). If we learn that we have collected personal data from a child without verified parental consent, we will promptly delete that information from our database servers.
+
+====================================================================
+9. CHANGES TO THIS PRIVACY POLICY
+====================================================================
+We reserve the right to update or modify this Privacy Policy at any time to reflect software updates, legal requirements, or service enhancements. Any modifications will become effective immediately upon posting the updated Privacy Policy in the App or on our official website. We encourage you to review this policy periodically.
+
+====================================================================
+10. CONTACT US
+====================================================================
+If you have any questions, concerns, or privacy-related inquiries regarding this Privacy Policy, please reach out to us:
+
+• In-App Support: Account Center -> Support & Help
+• Official Website: https://veloxnetwork.vercel.app
+• Support Email: support@veloxnetwork.app
+• Foundation: Velox Network Core Team
