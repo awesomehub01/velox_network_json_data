@@ -1,8 +1,8 @@
 {
   "appUpdate": {
-    "versionCode": 11,
-    "versionName": "1.1",
-    "apkUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/velox-official-v1.1.apk",
+    "versionCode": 12,
+    "versionName": "1.2",
+    "apkUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/velox-official-v1.2.apk",
     "releaseNotes": "• Upgraded Velox Mining Protocol Engine\n• Fixed offline Session Coins sync\n• Added Direct Local Withdrawals & PayPal\n• Velox Ad Network Earn USD Integration",
     "forceUpdate": false
   }
